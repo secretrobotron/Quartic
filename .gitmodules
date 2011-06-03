@@ -1,0 +1,9 @@
+[submodule "external/CubicVR.js"]
+	path = external/CubicVR.js
+	url = git@github.com:cjcliffe/CubicVR.js.git
+[submodule "external/dsp.js"]
+	path = external/dsp.js
+	url = git://github.com/corbanbrook/dsp.js.git
+[submodule "external/ammo.js"]
+	path = external/ammo.js
+	url = https://github.com/kripken/ammo.js
